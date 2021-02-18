@@ -1,5 +1,5 @@
 {
-    "datosPedido": [
+    "datosPedido": 
         {
             "cedulaCliente": "116870545",
             "tipoCedulaCliente": "1",
@@ -19,5 +19,5 @@
             "codigoTerminal": "1",
             "usuarioConfeccion": "bcanales"
         }
-    ]
+    
 }
