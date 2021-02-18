@@ -1,0 +1,23 @@
+{
+    "datosPedido": [
+        {
+            "cedulaCliente": "116870545",
+            "tipoCedulaCliente": "1",
+            "nombreCliente": "Brayan Canales",
+            "telefono": "85516391",
+            "fechaInstalacionServicio": "12/02/2021",
+            "numeroPlan": "1",
+            "fechaCreacionOST": "02/02/2021",
+            "fechaEjecucion": "05/02/2021",
+            "EstadoOrdenSIMO": "1",
+            "CodigoAccionSIMO": "1",
+            "DescripcionAccionSIMO": "Prueba",
+            "movimientos": [],
+            "indicadorHogaresConectados": "1",
+            "indicadorPyme": "1",
+            "indicadorFonatel": "1",
+            "codigoTerminal": "1",
+            "usuarioConfeccion": "bcanales"
+        }
+    ]
+}
