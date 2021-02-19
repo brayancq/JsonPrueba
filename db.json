@@ -9,7 +9,7 @@
             "numeroPlan": "1",
             "fechaCreacionOST": "02/02/2021",
             "fechaEjecucion": "05/02/2021",
-            "EstadoOrdenSIMO": "1",
+            "EstadoOrdenSIMO": "normal",
             "CodigoAccionSIMO": "1",
             "DescripcionAccionSIMO": "Prueba",
             "movimientos": ["RCOM","RE1","RE9","EX17"],
@@ -17,7 +17,14 @@
             "indicadorPyme": "1",
             "indicadorFonatel": "1",
             "codigoTerminal": "1",
-            "usuarioConfeccion": "bcanales"
+            "usuarioConfeccion": "bcanales",
+            "razon": "prueba de datos obtenidos",
+            "fechaRobo": "12/12/2020",
+            "cuotasPendientes: "2",
+            "montoDispositivo": "250000",
+            "telefono": "85516391",
+            "otroMovimiento": ""
+            
         }
     
 }
