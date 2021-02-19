@@ -12,7 +12,7 @@
             "EstadoOrdenSIMO": "1",
             "CodigoAccionSIMO": "1",
             "DescripcionAccionSIMO": "Prueba",
-            "movimientos": ["IN1","1085","IP1","IFCA","IF1","IF18","IF2","IF4","IF56"],
+            "movimientos": ["RCOM","RE1","RE9","EX17"],
             "indicadorHogaresConectados": "1",
             "indicadorPyme": "1",
             "indicadorFonatel": "1",
